@@ -3,6 +3,8 @@
  My name is Daniel Ceci. I'm from Brazil and i live in Foz do Iguaçu. At this moment, i am preparing myself to become a Web Developer(Full Stack). I am a student at TRYBE.
  <br> <br>
  
+ My email: danielceci96@gmail.com
+ 
  My Social Networks:
  
  <a href="https://www.instagram.com/" target="_blank">
