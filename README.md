@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Daniel Ceci. I'm from Brazil and i live in Foz do Iguaçu. At this moment, i am preparing myself to become a Web Developer(Full Stack). I am a student at TRYBE.
+ My name is Daniel Ceci. I'm from Brazil and i live in Foz do Iguaçu. I'm a FrontEnd Developer.
  <br> <br>
  
  My email: danielceci96@gmail.com
