@@ -7,7 +7,7 @@
  
  My Social Networks:
  
- <a href="https://www.instagram.com/" target="_blank">
+ <a href="https://www.instagram.com/dani.elceci/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="50px" height="50px">
   </a> 
   <a href="https://www.linkedin.com/in/daniel-ceci/" target="_blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" alt="linkedin-logo" width="50px" height="50px"></a>
