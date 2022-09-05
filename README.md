@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Daniel Ceci. I'm from Brazil and i live in Foz do Iguaçu. I'm a FrontEnd Developer.
+ My name is Daniel Ceci. I'm from Brazil and i live in Foz do Iguaçu. I'm a FrontEnd and BackEnd Developer.
  <br> <br>
  
  My email: danielceci96@gmail.com
